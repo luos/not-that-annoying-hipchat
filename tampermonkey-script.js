@@ -5,7 +5,7 @@
 // @description  enter something useful
 // @author       You
 // @match        https://*.hipchat.com/chat*
-// @grant        none
+// @grant        MIT
 // ==/UserScript==
 
 $(function(){
