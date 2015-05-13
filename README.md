@@ -9,6 +9,6 @@ This script
 
 Todos:
 
-  * Move the room header to one line
+  * Make the room header to be one line and smaller
 
 I advise you to set the zoom to 90% because the stuff in this new style is BIG.
