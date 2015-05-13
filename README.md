@@ -7,4 +7,4 @@ This script
 * replaces the message count favicon with a favicon
 
 
-I advice you to set the zoom to 90% because the stuff in this new style is BIG.
+I advise you to set the zoom to 90% because the stuff in this new style is BIG.
