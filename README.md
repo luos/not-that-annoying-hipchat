@@ -1,5 +1,6 @@
 # not-that-annoying-hipchat
 
+This is a tampermonkey script for chrome. 
 
 This script
 
